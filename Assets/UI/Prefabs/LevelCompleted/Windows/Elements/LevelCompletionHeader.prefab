@@ -147,7 +147,7 @@ GameObject:
   - component: {fileID: 7383718792643466572}
   - component: {fileID: 5281808319242120352}
   m_Layer: 5
-  m_Name: LevelComplitionHeader
+  m_Name: LevelCompletionHeader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
